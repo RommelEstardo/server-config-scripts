@@ -1,4 +1,4 @@
-# server_config_scripts
+# server-config-scripts
 
 # Server Configuration Collector
 
